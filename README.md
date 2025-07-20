@@ -1,6 +1,6 @@
 # SpinSight
 
-**SpinSight** computes NMR observables (chemical shifts, NOE, J-coupling) from MD trajectories—bridging simulation and experimental validation.
+**SpinSight** computes NMR observables (chemical shifts, NOE, J-coupling) from MD simulation trajectories—bridging simulation and experimental validation.
 
 ## 🚀 Features
 - NMR shift and coupling predictions
